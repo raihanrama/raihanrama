@@ -72,6 +72,10 @@
 
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/raihanrama/raihanrama/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
+
 ---
 
 <!-- Footer -->
