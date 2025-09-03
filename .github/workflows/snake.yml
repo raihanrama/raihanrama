@@ -9,7 +9,7 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
-    permissions: # ✅ kasih izin write ke repo
+    permissions:
       contents: write
     steps:
       # Snake Animation
@@ -17,7 +17,15 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: raihanrama
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/snake.svg
+          # 🎨 atur warna
+          palette: |
+            background: transparent
+            snake: #00ff00
+            stroke: #000000
+            empty: #000000
+            filled: #00ff00
 
       # Deploy hasil ke branch output
       - name: Push to output branch
