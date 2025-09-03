@@ -69,57 +69,7 @@
 
 ## <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM12 20C7.59 20 4 16.41 4 12C4 7.59 7.59 4 12 4C16.41 4 20 7.59 20 12C20 16.41 16.41 20 12 20Z" fill="#00BFFF"/><path d="M12 6C8.69 6 6 8.69 6 12C6 15.31 8.69 18 12 18C15.31 18 18 15.31 18 12C18 8.69 15.31 6 12 6ZM12 16C9.79 16 8 14.21 8 12C8 9.79 9.79 8 12 8C14.21 8 16 9.79 16 12C16 14.21 14.21 16 12 16Z" fill="#00BFFF"/></svg> Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🔄 Created PR [#1](https://github.com/yourusername/yourrepo/pull/1) in `yourusername/yourrepo`
-2. 🎉 Merged PR [#2](https://github.com/yourusername/yourrepo/pull/2) in `yourusername/yourrepo`
-3. 🚀 Pushed 3 commits to `main`
-4. 🔨 Fixed bug in authentication module
-5. 📦 Released v1.0.0 of your awesome project
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-  <p>Thanks for visiting! ❤️</p>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile views"/>
-</div>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
----
-
-## 📌 Highlighted Projects
-🔹 [**CepatFotokopi**](https://github.com/raihanrama/fotokopi-PHP) – Web app untuk manajemen layanan fotokopi berbasis PHP & MySQL  
-🔹 [**Property Price Prediction**](#) – Machine Learning + Flask + React untuk prediksi harga properti  
-🔹 [**Healthy Food Recommendation**](#) – Sistem rekomendasi makanan Indonesia berbasis Machine Learning  
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanrama&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrama&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=raihanrama&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://raihan-portfolio.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihan.email@example.com)
+D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihan.email@example.com)
 
 </div>
 
