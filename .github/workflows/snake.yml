@@ -1,9 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # setiap 12 jam otomatis update
+  schedule: # otomatis update setiap 12 jam
     - cron: "0 */12 * * *"
-  workflow_dispatch: # bisa dijalankan manual
+  workflow_dispatch: # bisa dijalankan manual dari tab Actions
   push:
     branches:
       - main
@@ -11,6 +11,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: # ✅ fix: kasih izin write ke repo
+      contents: write
     steps:
       - uses: Platane/snk@v3
         with:
