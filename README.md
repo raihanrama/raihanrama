@@ -2,30 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=1&pause=999999&color=00BFFF&center=true&vCenter=true&width=600&height=100&lines=Muhammad+Raihan+Ramadhan" alt="Muhammad Raihan Ramadhan" />
 </h1>
 
-<!-- Atau alternatif lain menggunakan shields.io untuk tampilan yang lebih clean -->
-
-<h1 align="center">
-  <img src="https://img.shields.io/badge/Muhammad_Raihan_Ramadhan-00BFFF?style=for-the-badge&logoColor=white&labelColor=1a1b27&color=00BFFF" alt="Muhammad Raihan Ramadhan" />
-</h1>
-
-<!-- Atau menggunakan format SVG custom -->
-
-<div align="center">
-  <svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
-    <text x="300" y="60" font-family="Fira Code, monospace" font-size="36" font-weight="600" fill="#00BFFF" text-anchor="middle">
-      Muhammad Raihan Ramadhan
-    </text>
-  </svg>
-</div>
-
-<!-- Atau versi paling sederhana dengan styling heading -->
-
-<div align="center">
-  
-# <span style="color: #00BFFF; font-family: 'Fira Code', monospace;">Muhammad Raihan Ramadhan</span>
-
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+Digital+Universe+;Full-Stack+Developer+%7C+AI+Enthusiast;Building+the+Future+with+Code+;Information+Systems+Student+" alt="Typing Animation" />
 </p>
