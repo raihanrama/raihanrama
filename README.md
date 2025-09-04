@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=100&lines=Hi+there%2C+I'm+Muhammad+Raihan+Ramadhan" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+Digital+Universe+🌌;Full-Stack+Developer+%7C+AI+Enthusiast;Building+the+Future+with+Code+💻;Information+Systems+Student+📚" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+Digital+Universe+🌌;Full-Stack+Developer+%7C+AI+Enthusiast;Building+the+Future+with+Code+💻;Information+Systems+Student+📚" alt="Typing Animation" />
 </p>
 
 <div align="center">
