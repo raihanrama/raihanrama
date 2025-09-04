@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 **About Me**
+##  **About Me**
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -30,15 +30,15 @@ const raihan: Developer = {
 };
 ```
 
-- 🎓 **Information Systems Student** at Gunadarma University
-- 🤖 **AI & Machine Learning Enthusiast** building intelligent solutions
-- 🌐 **Full-Stack Developer** crafting seamless digital experiences
-- 📊 **Data Analysis Lover** turning data into insights
-- 🚀 **Tech Explorer** always learning cutting-edge technologies
+-  **Information Systems Student** at Gunadarma University
+-  **AI & Machine Learning Enthusiast** building intelligent solutions
+-  **Full-Stack Developer** crafting seamless digital experiences
+-  **Data Analysis Lover** turning data into insights
+-  **Tech Explorer** always learning cutting-edge technologies
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## 🛠 **Tech Arsenal**
 
 <div align="center">
 
@@ -67,7 +67,7 @@ const raihan: Developer = {
 
 ---
 
-## 📊 **GitHub Analytics**
+##  **GitHub Analytics**
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raihanrama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
@@ -80,7 +80,7 @@ const raihan: Developer = {
 
 ---
 
-## 🎨 **Featured Projects**
+##  **Featured Projects**
 
 <div align="center">
 
@@ -91,7 +91,7 @@ const raihan: Developer = {
 
 ---
 
-## 🏆 **GitHub Trophies**
+##  **GitHub Trophies**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=raihanrama&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
@@ -99,7 +99,7 @@ const raihan: Developer = {
 
 ---
 
-## 📈 **Contribution Graph**
+##  **Contribution Graph**
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raihanrama&custom_title=Raihan's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=38bdae&point=70a5fd&area_color=38bdae&title_color=70a5fd&area=true&hide_border=true" alt="GitHub Activity Graph" />
@@ -107,7 +107,7 @@ const raihan: Developer = {
 
 ---
 
-## 🌟 **Skills Visualization**
+##  **Skills Visualization**
 
 <div align="center">
 
@@ -125,21 +125,21 @@ Database Design      ███████████████        65%
 
 ---
 
-## 🎯 **Current Learning Journey**
+##  **Current Learning Journey**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-- 🔥 **Deep Learning** with TensorFlow & PyTorch
-- ⚡ **Advanced React Patterns** & Next.js
-- 🚀 **Cloud Architecture** on AWS & GCP
-- 🤖 **MLOps** & Model Deployment
-- 📱 **Mobile Development** with React Native
+-  **Deep Learning** with TensorFlow & PyTorch
+-  **Advanced React Patterns** & Next.js
+-  **Cloud Architecture** on AWS & GCP
+-  **MLOps** & Model Deployment
+-  **Mobile Development** with React Native
 
 ---
 
-## 📱 **Connect With Me**
+##  **Connect With Me**
 
 <div align="center">
   
@@ -154,21 +154,21 @@ Database Design      ███████████████        65%
 
 ---
 
-## 💡 **Fun Facts**
+##  **Fun Facts**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
 
-- 🎮 Gaming enthusiast when not coding
-- ☕ Coffee-powered developer (3-5 cups daily!)
-- 🌱 Always learning something new every day
-- 🎵 Code better with lo-fi music
-- 🌍 Dream: Contributing to open-source AI projects
+-  Gaming enthusiast when not coding
+-  Coffee-powered developer (3-5 cups daily!)
+-  Always learning something new every day
+-  Code better with lo-fi music
+-  Dream: Contributing to open-source AI projects
 
 ---
 
-## 📊 **Weekly Development Breakdown**
+## **Weekly Development Breakdown**
 
 ```text
 🌅 Morning   ████████░░   35.2%
@@ -179,7 +179,7 @@ Database Design      ███████████████        65%
 
 ---
 
-## 🎨 **Code Philosophy**
+##  **Code Philosophy**
 
 > *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
