@@ -188,12 +188,3 @@ Database Design      ███████████████        65%
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=85&descAlign=50" />
-</div>
-
-<div align="center">
-  <b>⭐ Star my repositories if you find them interesting!</b><br>
-  <img src="https://komarev.com/ghpvc/?username=raihanrama&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-</div>
