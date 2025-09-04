@@ -1,7 +1,5 @@
 <p align="center">
-  <span style="font-family:'Fira Code', monospace; font-weight:1200; font-size:64px; color:#00BFFF;">
-    Muhammad Raihan Ramadhan
-  </span>
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Muhammad%20Raihan%20Ramadhan&width=800&height=100&fontSize=64&color=00BFFF" alt="Static Text SVG" />
 </p>
 
 <p align="center">
