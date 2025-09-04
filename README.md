@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Muhammad%20Raihan%20Ramadhan&width=800&height=100&fontSize=64&color=00BFFF" alt="Static Text SVG" />
+  <span style="font-size:64px; color:#00BFFF; font-family:monospace;">
+    Muhammad Raihan Ramadhan
+  </span>
 </p>
 
 <p align="center">
