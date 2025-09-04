@@ -1,11 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=1&pause=999999&color=00BFFF&center=true&vCenter=true&width=800&height=100&lines=Muhammad+Raihan+Ramadhan" alt="Muhammad Raihan Ramadhan" />
-</h1>
-<!-- Jika masih terpotong, gunakan width yang lebih besar -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=1&pause=999999&color=00BFFF&center=true&vCenter=true&width=900&height=100&lines=Muhammad+Raihan+Ramadhan" alt="Muhammad Raihan Ramadhan" />
-</h1>
-<!-- Atau gunakan ukuran font yang sedikit lebih kecil dengan width optimal -->
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&duration=1&pause=999999&color=00BFFF&center=true&vCenter=true&width=750&height=100&lines=Muhammad+Raihan+Ramadhan" alt="Muhammad Raihan Ramadhan" />
 </h1>
