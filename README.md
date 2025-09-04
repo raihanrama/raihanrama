@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-family:'Fira Code', monospace; font-weight:1200; font-size:32px; color:#00BFFF;">
+  <span style="font-family:'Fira Code', monospace; font-weight:1200; font-size:64px; color:#00BFFF;">
     Muhammad Raihan Ramadhan
   </span>
 </p>
