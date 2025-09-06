@@ -22,6 +22,7 @@ const raihan: Developer = {
   name: "Muhammad Raihan Ramadhan",
   university: "Gunadarma University",
   major: "Information Systems",
+  gpa:3.83/4.00,
   currentFocus: "AI & Machine Learning",
   passions: ["Web Development", "Data Science", "AI/ML"],
   currentProject: "ML-powered Web Applications",
