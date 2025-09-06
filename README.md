@@ -112,7 +112,7 @@ const raihan: Developer = {
 <div align="center">
 
 ```text
-AI/Machine Learning  ████████████████████   95%
+AI/Machine Learning  ████████████████████   90%
 JavaScript/React     ████████████████████   90%
 Python               ███████████████████    85%
 PHP                  ██████████████████     80%
