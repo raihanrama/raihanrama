@@ -30,7 +30,7 @@ const raihan: Developer = {
 };
 ```
 
--  **Information Systems Student** at Gunadarma University
+-  **Information Systems Student** at Gunadarma University With GPA 3.83/4.00
 -  **AI & Machine Learning Enthusiast** building intelligent solutions
 -  **Full-Stack Developer** crafting seamless digital experiences
 -  **Data Analysis Lover** turning data into insights
