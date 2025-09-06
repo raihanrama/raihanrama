@@ -38,7 +38,7 @@ const raihan: Developer = {
 
 ---
 
-## 🛠 **Tech Arsenal**
+## **Tech Arsenal**
 
 <div align="center">
 
