@@ -84,7 +84,7 @@ const raihan: Developer = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raihanrama&repo=machine-learning-webapp&theme=tokyonight&hide_border=true)](https://github.com/raihanrama/REFSYS_PREDICTION)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raihanrama&repo=REFSYS_PREDICTION&theme=tokyonight&hide_border=true)](https://github.com/raihanrama/REFSYS_PREDICTION)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raihanrama&repo=ai-data-analyzer&theme=tokyonight&hide_border=true)](https://github.com/raihanrama/ai-data-analyzer)
 
 </div>
