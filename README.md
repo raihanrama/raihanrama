@@ -23,8 +23,8 @@ const raihan: Developer = {
   university: "Gunadarma University",
   major: "Information Systems",
   gpa:3.83/4.00,
-  currentFocus: "AI & Machine Learning",
-  passions: ["Web Development", "Data Science", "AI/ML"],
+  currentFocus: "Data Analyst & Machine Learning",
+  passions: ["Web Development", "Data Science", "AI/ML", ""],
   currentProject: "ML-powered Web Applications",
   askMeAbout: ["React", "Python", "Machine Learning", "APIs"],
   funFact: "I debug with console.log() and I'm not ashamed! 😄"
