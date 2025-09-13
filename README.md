@@ -26,7 +26,7 @@ const raihan: Developer = {
   currentFocus: "Data Analyst & Machine Learning",
   passions: ["Web Development", "Data Science", "AI/ML", "Data Analyst"],
   currentProject: "ML-powered Web Applications",
-  askMeAbout: ["React", "Python", "Machine Learning", "APIs"],
+  askMeAbout: ["React", "Python", "Machine Learning", "APIs", "AI Automation"],
   funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
