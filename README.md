@@ -52,7 +52,7 @@ const raihan: Developer = {
 ### **Backend & Database**
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb,postgresql,redis&theme=dark" />
 
-### **AI/ML & Data Science**
+### **AI/ ML & Data Science**
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
