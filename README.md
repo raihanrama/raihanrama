@@ -76,7 +76,7 @@ const raihan: Developer = {
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrama&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top 5 Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrama&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top 10 Languages" />
 </div>
 
 ---
