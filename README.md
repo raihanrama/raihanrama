@@ -167,7 +167,7 @@ Database Design      ███████████████        65%
 ```ascii
 ╔══════════════════════════════════════════════════════════╗
 ║  🎮  Gaming enthusiast when not coding                   ║
-║  ☕  Coffee-powered developer (3-5 cups daily!)          ║
+║  ☕  Coffee-powered developer (1-2 cups daily!)          ║
 ║  📚  Always learning something new every day             ║
 ║  🎵  Code better with lo-fi music                        ║
 ║  🚀  Dream: Contributing to open-source AI projects      ║
