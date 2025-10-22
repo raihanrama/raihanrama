@@ -141,9 +141,7 @@ Database Design      ███████████████        65%
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=raihanrama&color=blueviolet&style=for-the-badge)
-  
+  ![Profile Views](https://komarev.com/ghpvc/?username=raihanrama&color=blueviolet&style=for-the-badge) 
 </div>
 
 ---
@@ -154,7 +152,7 @@ Database Design      ███████████████        65%
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-raihan-ramadhan-3735b5293/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihanrama)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/raihanrama)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/raihan.rndm)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadraihan291003@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portoraihanrama.netlify.app/)
 
