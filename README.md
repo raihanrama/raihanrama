@@ -140,41 +140,72 @@ Database Design      ███████████████        65%
 
 ---
 
-##  **Connect With Me**
+# 👋 Hi there, I'm Raihan Ramadhan!
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-raihan-ramadhan-3735b5293/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihanrama)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadraihan291003@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://portoraihanrama.netlify.app/)
-
+  ![Profile Views](https://komarev.com/ghpvc/?username=raihanrama&color=blueviolet&style=for-the-badge)
+  
 </div>
 
 ---
 
-##  **Fun Facts**
+## 🌐 **Connect With Me**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-</div>
 
--  Gaming enthusiast when not coding
--  Coffee-powered developer (3-5 cups daily!)
--  Always learning something new every day
--  Code better with lo-fi music
--  Dream: Contributing to open-source AI projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-raihan-ramadhan-3735b5293/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihanrama)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/raihanrama)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadraihan291003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portoraihanrama.netlify.app/)
+
+</div>
 
 ---
 
-## **Weekly Development Breakdown**
+## ✨ **Fun Facts About Me**
+
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════════════════════════╗
+║  🎮  Gaming enthusiast when not coding                   ║
+║  ☕  Coffee-powered developer (3-5 cups daily!)          ║
+║  📚  Always learning something new every day             ║
+║  🎵  Code better with lo-fi music                        ║
+║  🚀  Dream: Contributing to open-source AI projects      ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">🎮<br><b>Gaming</b></td>
+    <td align="center">☕<br><b>3-5 Cups/Day</b></td>
+    <td align="center">📚<br><b>Lifelong Learner</b></td>
+    <td align="center">🎵<br><b>Lo-fi Lover</b></td>
+    <td align="center">🚀<br><b>AI Enthusiast</b></td>
+  </tr>
+</table>
+
+---
+
+## ⏰ **Weekly Development Breakdown**
+
+<div align="center">
 
 ```text
-🌅 Morning   ████████░░   35.2%
-🌆 Daytime   █████████░   42.8% 
-🌃 Evening   ███████░░░   28.5%
-🌙 Night     ██████░░░░   22.7%
+🌅 Morning   ████████████░░░░░░░░  35.2%  (Sunrise coding sessions)
+🌆 Daytime   █████████████████░░░  42.8%  (Peak productivity hours)
+🌃 Evening   ██████████████░░░░░░  28.5%  (Project wrapping time)
+🌙 Night     ███████████░░░░░░░░░  22.7%  (Deep focus & debugging)
 ```
+
+**Most Productive Time:** 🌆 **Daytime** (42.8%)
+
+</div>
 
 ---
 
