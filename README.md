@@ -160,7 +160,7 @@ Database Design      ███████████████        65%
 
 ---
 
-## ✨ **Fun Facts About Me**
+## **Fun Facts About Me**
 
 <div align="center">
 
@@ -188,7 +188,7 @@ Database Design      ███████████████        65%
 
 ---
 
-## ⏰ **Weekly Development Breakdown**
+## **Weekly Development Breakdown**
 
 <div align="center">
 
