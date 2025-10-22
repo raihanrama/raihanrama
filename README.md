@@ -140,8 +140,6 @@ Database Design      ███████████████        65%
 
 ---
 
-# 👋 Hi there, I'm Raihan Ramadhan!
-
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=raihanrama&color=blueviolet&style=for-the-badge)
