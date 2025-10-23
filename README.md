@@ -146,7 +146,7 @@ Database Design      ███████████████        65%
 
 ---
 
-## 🌐 **Connect With Me**
+## **Connect With Me**
 
 <div align="center">
 
